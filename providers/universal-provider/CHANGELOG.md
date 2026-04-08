@@ -1,5 +1,14 @@
 # @walletconnect/universal-provider
 
+## 2.23.10
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @walletconnect/sign-client@2.23.10
+  - @walletconnect/utils@2.23.10
+  - @walletconnect/types@2.23.10
+
 ## 2.23.9
 
 ### Patch Changes

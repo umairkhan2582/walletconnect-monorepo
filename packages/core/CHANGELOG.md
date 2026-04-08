@@ -1,5 +1,15 @@
 # @walletconnect/core
 
+## 2.23.10
+
+### Patch Changes
+
+- [#7218](https://github.com/WalletConnect/walletconnect-monorepo/pull/7218) [`da98172`](https://github.com/WalletConnect/walletconnect-monorepo/commit/da98172e1478620d4f8c9e8f833a8ad13520bfeb) Thanks [@ganchoradkov](https://github.com/ganchoradkov)! - Strip bare `new TextEncoder,new TextDecoder;` side-effect from UMD bundles that crashed React Native / Hermes on import
+
+- Updated dependencies []:
+  - @walletconnect/utils@2.23.10
+  - @walletconnect/types@2.23.10
+
 ## 2.23.9
 
 ### Patch Changes
